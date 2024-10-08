@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3d9c6ba89849b854e870da816eb30629
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VCGDo: {fileID: 6948662460998909581, guid: 12b7174822f9d394ab1273026e15fea4, type: 3}
+  - PikeClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

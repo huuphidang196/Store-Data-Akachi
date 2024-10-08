@@ -1,0 +1,2695 @@
+fileFormatVersion: 2
+guid: 3b6426d4de23de44cb2b0e60d5843e1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9000236562217356134
+    second: Chapter2.1_0
+  - first:
+      213: -5778967957652742330
+    second: Chapter2.1_1
+  - first:
+      213: -2696460913200416634
+    second: Chapter2.1_2
+  - first:
+      213: 4719216789923091230
+    second: Chapter2.1_3
+  - first:
+      213: 383037505009587592
+    second: Chapter2.1_4
+  - first:
+      213: -8328517845092907705
+    second: Chapter2.1_5
+  - first:
+      213: -3444046871909258109
+    second: Chapter2.1_6
+  - first:
+      213: 5534246204731241128
+    second: Chapter2.1_7
+  - first:
+      213: -7083258071419610217
+    second: Chapter2.1_8
+  - first:
+      213: -7141217315128534115
+    second: Chapter2.1_9
+  - first:
+      213: 3640191392867800063
+    second: Chapter2.1_10
+  - first:
+      213: 4521216658998557586
+    second: Chapter2.1_11
+  - first:
+      213: -225505269899478480
+    second: Chapter2.1_12
+  - first:
+      213: 5109793698890486045
+    second: Chapter2.1_13
+  - first:
+      213: 2330778112878392629
+    second: Chapter2.1_14
+  - first:
+      213: 4284946173599299873
+    second: Chapter2.1_15
+  - first:
+      213: 3013205812893982310
+    second: Chapter2.1_16
+  - first:
+      213: 3966815151961699429
+    second: Chapter2.1_17
+  - first:
+      213: 3354213303686476382
+    second: Chapter2.1_18
+  - first:
+      213: -8096132762873727801
+    second: Chapter2.1_19
+  - first:
+      213: 65817534609207514
+    second: Chapter2.1_20
+  - first:
+      213: 9115203640009398205
+    second: Chapter2.1_21
+  - first:
+      213: -6825119998333137024
+    second: Chapter2.1_22
+  - first:
+      213: 7388013202269908706
+    second: Chapter2.1_23
+  - first:
+      213: -8883739717129510458
+    second: Chapter2.1_24
+  - first:
+      213: 3742661677333441165
+    second: Chapter2.1_25
+  - first:
+      213: -6319549931582228768
+    second: Chapter2.1_26
+  - first:
+      213: -587242779597655194
+    second: Chapter2.1_27
+  - first:
+      213: -3091309008358027364
+    second: Chapter2.1_28
+  - first:
+      213: 4229375119692941159
+    second: Chapter2.1_29
+  - first:
+      213: 7363282680003963862
+    second: Chapter2.1_30
+  - first:
+      213: 3063653590156219809
+    second: Chapter2.1_31
+  - first:
+      213: -34090953078994319
+    second: Chapter2.1_32
+  - first:
+      213: 4503260918143459670
+    second: Chapter2.1_33
+  - first:
+      213: -1036136477711600076
+    second: Chapter2.1_34
+  - first:
+      213: 4227499829601972935
+    second: Chapter2.1_35
+  - first:
+      213: 796249637007922699
+    second: Chapter2.1_36
+  - first:
+      213: 4328179527583815604
+    second: Chapter2.1_37
+  - first:
+      213: -3398564803482759186
+    second: Chapter2.1_38
+  - first:
+      213: 4463816632434638144
+    second: Chapter2.1_39
+  - first:
+      213: 7646227411291504241
+    second: Chapter2.1_40
+  - first:
+      213: 3635584112324499476
+    second: Chapter2.1_41
+  - first:
+      213: 7525823952981049460
+    second: Chapter2.1_42
+  - first:
+      213: 5778914454048593540
+    second: Chapter2.1_43
+  - first:
+      213: -6054481717170301507
+    second: Chapter2.1_44
+  - first:
+      213: -6863971732839940706
+    second: Chapter2.1_45
+  - first:
+      213: 443689873745715379
+    second: Chapter2.1_46
+  - first:
+      213: -8348547386723396590
+    second: Chapter2.1_47
+  - first:
+      213: 4696315333687043876
+    second: Chapter2.1_48
+  - first:
+      213: 7724934637361220823
+    second: Chapter2.1_49
+  - first:
+      213: 5124697300497860251
+    second: Chapter2.1_50
+  - first:
+      213: 8489557322674746238
+    second: Chapter2.1_51
+  - first:
+      213: -692404301633397709
+    second: Chapter2.1_52
+  - first:
+      213: 6370741180637506659
+    second: Chapter2.1_53
+  - first:
+      213: 8241822180086483712
+    second: Chapter2.1_54
+  - first:
+      213: 8589187671479895584
+    second: Chapter2.1_55
+  - first:
+      213: -697759037887838099
+    second: Chapter2.1_56
+  - first:
+      213: 1909649573849396070
+    second: Chapter2.1_57
+  - first:
+      213: -8744133209292904414
+    second: Chapter2.1_58
+  - first:
+      213: -6120144160535055312
+    second: Chapter2.1_59
+  - first:
+      213: 6107366555798038309
+    second: Chapter2.1_60
+  - first:
+      213: -4741954230554527938
+    second: Chapter2.1_61
+  - first:
+      213: 847811132841243146
+    second: Chapter2.1_62
+  - first:
+      213: 7605111380243237249
+    second: Chapter2.1_63
+  - first:
+      213: -3534259551414786666
+    second: Chapter2.1_64
+  - first:
+      213: -5925527152658806264
+    second: Chapter2.1_65
+  - first:
+      213: 3159720180755868364
+    second: Chapter2.1_66
+  - first:
+      213: -3210770407202363362
+    second: Chapter2.1_67
+  - first:
+      213: 3184882612950172317
+    second: Chapter2.1_68
+  - first:
+      213: -6940311940191028528
+    second: Chapter2.1_69
+  - first:
+      213: -691171617027520717
+    second: Chapter2.1_70
+  - first:
+      213: 8340158883488294236
+    second: Chapter2.1_71
+  - first:
+      213: -5434620455746088333
+    second: Chapter2.1_72
+  - first:
+      213: -263540872070467523
+    second: Chapter2.1_73
+  - first:
+      213: 5504450721748011080
+    second: Chapter2.1_74
+  - first:
+      213: -4008763181830830651
+    second: Chapter2.1_75
+  - first:
+      213: -7902391837719286360
+    second: Chapter2.1_76
+  - first:
+      213: -7677674469935005147
+    second: Chapter2.1_77
+  - first:
+      213: 2357937747223996807
+    second: Chapter2.1_78
+  - first:
+      213: -4644640843997571354
+    second: Chapter2.1_79
+  - first:
+      213: -1999108342167619603
+    second: Chapter2.1_80
+  - first:
+      213: 3579692107259761067
+    second: Chapter2.1_81
+  - first:
+      213: 8683253174844377643
+    second: Chapter2.1_82
+  - first:
+      213: 1099601174858719455
+    second: Chapter2.1_83
+  - first:
+      213: -3512402956170839782
+    second: Chapter2.1_84
+  - first:
+      213: -8094425487227649820
+    second: Chapter2.1_85
+  - first:
+      213: 388803970986139059
+    second: Chapter2.1_86
+  - first:
+      213: 1821081127330780627
+    second: Chapter2.1_87
+  - first:
+      213: -3527163395790643321
+    second: Chapter2.1_88
+  - first:
+      213: -156162618378489493
+    second: Chapter2.1_89
+  - first:
+      213: -4784266910294067615
+    second: Chapter2.1_90
+  - first:
+      213: -4598130729762566706
+    second: Chapter2.1_0
+  - first:
+      213: 8199274506572350765
+    second: Chapter2.1_1
+  - first:
+      213: -7132273347801648832
+    second: Chapter2.1_2
+  - first:
+      213: -8297078875760509830
+    second: Chapter2.1_3
+  - first:
+      213: -6609961437035676781
+    second: Chapter2.1_4
+  - first:
+      213: -5833388859723916131
+    second: Chapter2.1_5
+  - first:
+      213: 6643062076030927089
+    second: Chapter2.1_6
+  - first:
+      213: -5500894415592973056
+    second: Chapter2.1_7
+  - first:
+      213: 4004805340520095398
+    second: Chapter2.1_8
+  - first:
+      213: -7084893736599933883
+    second: Chapter2.1_9
+  - first:
+      213: -7881862740986762098
+    second: Chapter2.1_10
+  - first:
+      213: -2416038549919443629
+    second: Chapter2.1_11
+  - first:
+      213: -8314668201759930342
+    second: Chapter2.1_12
+  - first:
+      213: 2087728971885853536
+    second: Chapter2.1_13
+  - first:
+      213: -4539337665352113968
+    second: Chapter2.1_14
+  - first:
+      213: 7246266395171227377
+    second: Chapter2.1_15
+  - first:
+      213: -4479788050865563229
+    second: Chapter2.1_16
+  - first:
+      213: -6570671225320034545
+    second: Chapter2.1_17
+  - first:
+      213: 4096249536580052461
+    second: Chapter2.1_18
+  - first:
+      213: 881154871067754810
+    second: Chapter2.1_19
+  - first:
+      213: 3072963057107367303
+    second: Chapter2.1_20
+  - first:
+      213: 6810520684433678920
+    second: Chapter2.1_21
+  - first:
+      213: 3764109157835666781
+    second: Chapter2.1_22
+  - first:
+      213: -6140333300145599014
+    second: Chapter2.1_23
+  - first:
+      213: 6051614696453433853
+    second: Chapter2.1_24
+  - first:
+      213: -4010258326635257236
+    second: Chapter2.1_25
+  - first:
+      213: 6171321879532395803
+    second: Chapter2.1_26
+  - first:
+      213: -4714588594659400385
+    second: Chapter2.1_27
+  - first:
+      213: 6628085021082879876
+    second: Chapter2.1_28
+  - first:
+      213: -8587624377282722199
+    second: Chapter2.1_29
+  - first:
+      213: -1667853237123075091
+    second: Chapter2.1_30
+  - first:
+      213: -3993333264950452462
+    second: Chapter2.1_31
+  - first:
+      213: 3101852177985524519
+    second: Chapter2.1_32
+  - first:
+      213: 3517011636860711940
+    second: Chapter2.1_33
+  - first:
+      213: -1555863819751730244
+    second: Chapter2.1_34
+  - first:
+      213: 3016915210633003054
+    second: Chapter2.1_35
+  - first:
+      213: 2263947916539176712
+    second: Chapter2.1_36
+  - first:
+      213: 4946002784144078824
+    second: Chapter2.1_37
+  - first:
+      213: -1382797853355222072
+    second: Chapter2.1_38
+  - first:
+      213: -2650118108377299345
+    second: Chapter2.1_39
+  - first:
+      213: -1485451762497983519
+    second: Chapter2.1_40
+  - first:
+      213: -7745002130126526440
+    second: Chapter2.1_41
+  - first:
+      213: -6110669033981413081
+    second: Chapter2.1_42
+  - first:
+      213: 5364942582942729703
+    second: Chapter2.1_43
+  - first:
+      213: -4603998291514753657
+    second: Chapter2.1_44
+  - first:
+      213: -1580788860810736232
+    second: Chapter2.1_45
+  - first:
+      213: 8171030026091495659
+    second: Chapter2.1_46
+  - first:
+      213: 3546665366613588732
+    second: Chapter2.1_47
+  - first:
+      213: 6838837306963032320
+    second: Chapter2.1_48
+  - first:
+      213: 837846019344463892
+    second: Chapter2.1_49
+  - first:
+      213: 3751466697947424340
+    second: Chapter2.1_50
+  - first:
+      213: 3014599904107704978
+    second: Chapter2.1_51
+  - first:
+      213: -9199746333676901288
+    second: Chapter2.1_52
+  - first:
+      213: 8229060470398466739
+    second: Chapter2.1_53
+  - first:
+      213: -7886056648849887643
+    second: Chapter2.1_54
+  - first:
+      213: 7699763409180196988
+    second: Chapter2.1_55
+  - first:
+      213: 9117128656009421088
+    second: Chapter2.1_56
+  - first:
+      213: 4364187314884004706
+    second: Chapter2.1_57
+  - first:
+      213: -385632113191418588
+    second: Chapter2.1_58
+  - first:
+      213: -8100901152954176979
+    second: Chapter2.1_59
+  - first:
+      213: 8776385877974569223
+    second: Chapter2.1_60
+  - first:
+      213: -1351520456914013398
+    second: Chapter2.1_61
+  - first:
+      213: -9187508754838411076
+    second: Chapter2.1_62
+  - first:
+      213: 3759693846148021024
+    second: Chapter2.1_63
+  - first:
+      213: -500670704501524013
+    second: Chapter2.1_64
+  - first:
+      213: -4098794387637863448
+    second: Chapter2.1_65
+  - first:
+      213: 8256605945298105144
+    second: Chapter2.1_66
+  - first:
+      213: -8581614232562900536
+    second: Chapter2.1_67
+  - first:
+      213: 1816642373723786838
+    second: Chapter2.1_68
+  - first:
+      213: 77817021742806353
+    second: Chapter2.1_69
+  - first:
+      213: 4952970941432902316
+    second: Chapter2.1_70
+  - first:
+      213: 1478747876719625357
+    second: Chapter2.1_71
+  - first:
+      213: -3018885773885336049
+    second: Chapter2.1_72
+  - first:
+      213: -3048684650435030821
+    second: Chapter2.1_73
+  - first:
+      213: 5823758789752978371
+    second: Chapter2.1_74
+  - first:
+      213: -3048673557223713001
+    second: Chapter2.1_75
+  - first:
+      213: -3231092429520175833
+    second: Chapter2.1_76
+  - first:
+      213: -5799978707456644065
+    second: Chapter2.1_77
+  - first:
+      213: -56427819269151385
+    second: Chapter2.1_78
+  - first:
+      213: 2072509414580281604
+    second: Chapter2.1_79
+  - first:
+      213: -7362771955233879312
+    second: Chapter2.1_80
+  - first:
+      213: 3501969695356482102
+    second: Chapter2.1_81
+  - first:
+      213: 4355044268051458954
+    second: Chapter2.1_82
+  - first:
+      213: 1267782946897563717
+    second: Chapter2.1_83
+  - first:
+      213: -8460027508574156583
+    second: Chapter2.1_84
+  - first:
+      213: -4953815856093393152
+    second: Chapter2.1_85
+  - first:
+      213: 8529871807722405689
+    second: Chapter2.1_86
+  - first:
+      213: 173700742482887010
+    second: Chapter2.1_87
+  - first:
+      213: -6395103987499681698
+    second: Chapter2.1_88
+  - first:
+      213: -1177196546926883527
+    second: Chapter2.1_89
+  - first:
+      213: 5131778868072037871
+    second: Chapter2.1_90
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chapter2.1_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1746
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc1b596782030c0800000000000000
+      internalID: -9000236562217356134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1746
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25492cd8bca9c170800000000000000
+      internalID: -5778967957652742330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1746
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041fb47bd23150d90800000000000000
+      internalID: -2696460913200416634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1607
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb5e8e8badadc80800000000000000
+      internalID: 4719216789923091230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1607
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b35761813b444a0800000000000000
+      internalID: 383037505009587592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1606
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5f6b1db3ab0fa0800000000000000
+      internalID: -8328517845092907705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1606
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f041bef2c5e03c50800000000000000
+      internalID: -3444046871909258109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1606
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d96ab8ca5e8a3b0800000000000000
+      internalID: 5534246204731241128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1606
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae99442d3de39730800000000000000
+      internalID: -7083258071419610217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_9
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1606
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c22961fa66dad90800000000000000
+      internalID: -7141217315128534115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1607
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce813d89ffd9290800000000000000
+      internalID: 3640191392867800063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1486
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d6645db1887ed0800000000000000
+      internalID: 4521216658998557586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1486
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180dd0d25d5c9c80800000000000000
+      internalID: -225505269899478480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1486
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b3c8c407a19fc10800000000000000
+      internalID: 5109793698890486045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1486
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e22d91780101c0800000000000000
+      internalID: 2330778112878392629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1486
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60800e4e8ef8460800000000000000
+      internalID: 4284946173599299873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1486
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95e1fa08894d1c0800000000000000
+      internalID: 3013205812893982310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_17
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1486
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f2bee555940d4a0800000000000000
+      internalID: 3966815151961699429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1372
+        width: 133
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5663b204dc8d830800000000000000
+      internalID: 3354213303686476382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1372
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31491acfad7a3c00800000000000000
+      internalID: -8096132762873727801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1372
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78578c28e9b55aa20800000000000000
+      internalID: 65817534609207514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1372
+        width: 136
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ae139a74d38e50800000000000000
+      internalID: 9115203640009398205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_22
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1372
+        width: 129
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f690065dcc3430800000000000000
+      internalID: -6825119998333137024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1372
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc15a756729caa0800000000000000
+      internalID: 7388013202269908706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_24
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1372
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e3abe087abf350800000000000000
+      internalID: -8883739717129510458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1372
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626a579c43b858c0800000000000000
+      internalID: 3742661677333441165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1241
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ddf186d80f4a550800000000000000
+      internalID: -6319549931582228768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1241
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e731f6aa629eb0800000000000000
+      internalID: -587242779597655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1237
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878bb6a530bbfb50800000000000000
+      internalID: -3091309008358027364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1249
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660497c021a2d880800000000000000
+      internalID: 4229375119692941159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_30
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1246
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33bc741589ad8e0800000000000000
+      internalID: 7363282680003963862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1241
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f90e89d84d498c0800000000000000
+      internalID: 3063653590156219809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1103
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723599e1f1efb0b20800000000000000
+      internalID: -34090953078994319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1103
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4047ff5237feec030800000000000000
+      internalID: 4503260918143459670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1103
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d0d86916786ae0800000000000000
+      internalID: -1036136477711600076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_35
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1102
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c047566c3ed920800000000000000
+      internalID: 4227499829601972935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_36
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1102
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ad4b92a82b6f10800000000000000
+      internalID: 796249637007922699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1102
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7300fb35bb3a440800000000000000
+      internalID: 4328179527583815604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_38
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1102
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd692cda05fcce0800000000000000
+      internalID: -3398564803482759186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_39
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1102
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6647511f93e83bd0800000000000000
+      internalID: 4463816632434638144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 959
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb64550e7d926be0800000000000000
+      internalID: 7646227411291504241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 959
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182a21f899348490800000000000000
+      internalID: 3635584112324499476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 959
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729fe89a3ea823ba0800000000000000
+      internalID: 7525823952981049460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 959
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50ba0cada147a40800000000000000
+      internalID: 5778914454048593540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 959
+        width: 184
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df1c762ff4b10c0800000000000000
+      internalID: -6054481717170301507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_45
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 959
+        width: 180
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4b7e08e8ef0ae0800000000000000
+      internalID: -6863971732839940706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 959
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be00c3a4484556170800000000000000
+      internalID: 443689873745715379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 810
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfafe222c59483130800000000000000
+      internalID: -8348547386723396590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 810
+        width: 133
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00978360c4e68ee50800000000000000
+      internalID: 4696315333687043876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 809
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187087f380a0ab00800000000000000
+      internalID: 7724934637361220823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_50
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 809
+        width: 172
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562ddde513ef0430800000000000000
+      internalID: 5124697300497860251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_51
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 809
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292344804a206d920800000000000000
+      internalID: 8489557322674746238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_52
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 809
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6c7da37fe35080800000000000000
+      internalID: -692404301633397709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 683
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3f4df5ee733270800000000000000
+      internalID: 6370741180637506659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 683
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee1be82491f8290800000000000000
+      internalID: 8241822180086483712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_55
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 683
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c708cba860e0bda60800000000000000
+      internalID: 8589187671479895584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_56
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 683
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e9f0453c868e70800000000000000
+      internalID: -697759037887838099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 563
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4dec8d35b09c30800000000000000
+      internalID: 1909649573849396070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_58
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 563
+        width: 119
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4250e3fd2a5f5aaf0800000000000000
+      internalID: -8744133209292904414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_59
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 563
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2d916251d39f80800000000000000
+      internalID: -6120144160535055312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_60
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 563
+        width: 173
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701dd6ce47cfbc970800000000000000
+      internalID: 6107366555798038309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_61
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 563
+        width: 153
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2377fa1e4f6e3de0800000000000000
+      internalID: -4741954230554527938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_62
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 563
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a01907796f7080800000000000000
+      internalID: 847811132841243146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 424
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bffd322ad1d2430800000000000000
+      internalID: 7605111380243237249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 430
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9fdbc95a24d09f0800000000000000
+      internalID: -3534259551414786666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 430
+        width: 145
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebfa7588382e17c0800000000000000
+      internalID: -5925527152658806264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_66
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 430
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8333fd3ac5b559270800000000000000
+      internalID: 3159720180755868364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_67
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 430
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1e6a4a25bf7e880800000000000000
+      internalID: -3210770407202363362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_68
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 430
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8ab92d92063910800000000000000
+      internalID: 3184882612950172317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_69
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 430
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15575724b26741100800000000000000
+      internalID: -6940311940191028528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_70
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 466
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b0fa44dc7cb440800000000000000
+      internalID: -691171617027520717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848c30fb51958410800000000000000
+      internalID: 8340158883488294236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_72
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 297
+        width: 126
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0695162263ca16d0800000000000000
+      internalID: -5434620455746088333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 297
+        width: 126
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd052aa8675e0b5d0800000000000000
+      internalID: -263540872070467523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_74
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 297
+        width: 126
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf8c083c522d050800000000000000
+      internalID: 5504450721748011080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 149
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717dd816d8fe0b5d0800000000000000
+      internalID: -4008763181830830651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_76
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 147
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dfefded8ad823d0800000000000000
+      internalID: -7902391837719286360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_77
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 149
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca73d5816528fa0800000000000000
+      internalID: -7677674469935005147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_78
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 150
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76523058237873ff0800000000000000
+      internalID: 2357937747223996807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_79
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 154
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e5b9f45803cc10800000000000000
+      internalID: -4644640843997571354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_80
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 145
+        width: 167
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa83169aed22d990800000000000000
+      internalID: -1999108342167619603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 136
+        width: 124
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f7e932ee799030800000000000000
+      internalID: 3579692107259761067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_82
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 132
+        width: 123
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bee4210b9307c30800000000000000
+      internalID: 8683253174844377643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540902a8fd1189110800000000000000
+      internalID: 1099601174858719455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_84
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 13
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d88769ddc1f79a80800000000000000
+      internalID: -3512402956170839782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 13
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f0bdea9b2804bb0800000000000000
+      internalID: -8094425487227649820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_86
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 13
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb9e64731306670800000000000000
+      internalID: 388803970986139059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_87
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 13
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610aeca7eb196200800000000000000
+      internalID: 1821081127330780627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_88
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 13
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b56b5ec60047a0800000000000000
+      internalID: -3527163395790643321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_89
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 12
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4b954af1c9afe0800000000000000
+      internalID: -156162618378489493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapter2.1_90
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 12
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3a41f0bdb73740800000000000000
+      internalID: -4784266910294067615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chapter2.1_0: -9000236562217356134
+      Chapter2.1_1: -5778967957652742330
+      Chapter2.1_10: 3640191392867800063
+      Chapter2.1_11: 4521216658998557586
+      Chapter2.1_12: -225505269899478480
+      Chapter2.1_13: 5109793698890486045
+      Chapter2.1_14: 2330778112878392629
+      Chapter2.1_15: 4284946173599299873
+      Chapter2.1_16: 3013205812893982310
+      Chapter2.1_17: 3966815151961699429
+      Chapter2.1_18: 3354213303686476382
+      Chapter2.1_19: -8096132762873727801
+      Chapter2.1_2: -2696460913200416634
+      Chapter2.1_20: 65817534609207514
+      Chapter2.1_21: 9115203640009398205
+      Chapter2.1_22: -6825119998333137024
+      Chapter2.1_23: 7388013202269908706
+      Chapter2.1_24: -8883739717129510458
+      Chapter2.1_25: 3742661677333441165
+      Chapter2.1_26: -6319549931582228768
+      Chapter2.1_27: -587242779597655194
+      Chapter2.1_28: -3091309008358027364
+      Chapter2.1_29: 4229375119692941159
+      Chapter2.1_3: 4719216789923091230
+      Chapter2.1_30: 7363282680003963862
+      Chapter2.1_31: 3063653590156219809
+      Chapter2.1_32: -34090953078994319
+      Chapter2.1_33: 4503260918143459670
+      Chapter2.1_34: -1036136477711600076
+      Chapter2.1_35: 4227499829601972935
+      Chapter2.1_36: 796249637007922699
+      Chapter2.1_37: 4328179527583815604
+      Chapter2.1_38: -3398564803482759186
+      Chapter2.1_39: 4463816632434638144
+      Chapter2.1_4: 383037505009587592
+      Chapter2.1_40: 7646227411291504241
+      Chapter2.1_41: 3635584112324499476
+      Chapter2.1_42: 7525823952981049460
+      Chapter2.1_43: 5778914454048593540
+      Chapter2.1_44: -6054481717170301507
+      Chapter2.1_45: -6863971732839940706
+      Chapter2.1_46: 443689873745715379
+      Chapter2.1_47: -8348547386723396590
+      Chapter2.1_48: 4696315333687043876
+      Chapter2.1_49: 7724934637361220823
+      Chapter2.1_5: -8328517845092907705
+      Chapter2.1_50: 5124697300497860251
+      Chapter2.1_51: 8489557322674746238
+      Chapter2.1_52: -692404301633397709
+      Chapter2.1_53: 6370741180637506659
+      Chapter2.1_54: 8241822180086483712
+      Chapter2.1_55: 8589187671479895584
+      Chapter2.1_56: -697759037887838099
+      Chapter2.1_57: 1909649573849396070
+      Chapter2.1_58: -8744133209292904414
+      Chapter2.1_59: -6120144160535055312
+      Chapter2.1_6: -3444046871909258109
+      Chapter2.1_60: 6107366555798038309
+      Chapter2.1_61: -4741954230554527938
+      Chapter2.1_62: 847811132841243146
+      Chapter2.1_63: 7605111380243237249
+      Chapter2.1_64: -3534259551414786666
+      Chapter2.1_65: -5925527152658806264
+      Chapter2.1_66: 3159720180755868364
+      Chapter2.1_67: -3210770407202363362
+      Chapter2.1_68: 3184882612950172317
+      Chapter2.1_69: -6940311940191028528
+      Chapter2.1_7: 5534246204731241128
+      Chapter2.1_70: -691171617027520717
+      Chapter2.1_71: 8340158883488294236
+      Chapter2.1_72: -5434620455746088333
+      Chapter2.1_73: -263540872070467523
+      Chapter2.1_74: 5504450721748011080
+      Chapter2.1_75: -4008763181830830651
+      Chapter2.1_76: -7902391837719286360
+      Chapter2.1_77: -7677674469935005147
+      Chapter2.1_78: 2357937747223996807
+      Chapter2.1_79: -4644640843997571354
+      Chapter2.1_8: -7083258071419610217
+      Chapter2.1_80: -1999108342167619603
+      Chapter2.1_81: 3579692107259761067
+      Chapter2.1_82: 8683253174844377643
+      Chapter2.1_83: 1099601174858719455
+      Chapter2.1_84: -3512402956170839782
+      Chapter2.1_85: -8094425487227649820
+      Chapter2.1_86: 388803970986139059
+      Chapter2.1_87: 1821081127330780627
+      Chapter2.1_88: -3527163395790643321
+      Chapter2.1_89: -156162618378489493
+      Chapter2.1_9: -7141217315128534115
+      Chapter2.1_90: -4784266910294067615
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

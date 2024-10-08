@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 75a3200eb101ed34ab8313e632016aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4800972245371918913
+    second: Bomno1_0
+  - first:
+      213: 8471325381628628714
+    second: Bomno1_1
+  - first:
+      213: 1828437472578190898
+    second: Bomno1_2
+  - first:
+      213: -7416544861670383819
+    second: Bomno1_3
+  - first:
+      213: -321297756400873667
+    second: Bomno1_4
+  - first:
+      213: 2704266543365070192
+    second: Bomno1_5
+  - first:
+      213: -1084590171284507835
+    second: Bomno1_6
+  - first:
+      213: -1680863410370639057
+    second: Bomno1_7
+  - first:
+      213: -8699656193464174965
+    second: Bomno1_8
+  - first:
+      213: -7726689538212670061
+    second: Bomno1_9
+  - first:
+      213: -4491237325425048689
+    second: Bomno1_10
+  - first:
+      213: -7797009662744740035
+    second: Bomno1_11
+  - first:
+      213: -6612683968778211126
+    second: Bomno1_12
+  - first:
+      213: -8428367155496079800
+    second: Bomno1_13
+  - first:
+      213: -1245906366688051314
+    second: Bomno1_14
+  - first:
+      213: -7224531131107104205
+    second: Bomno1_15
+  - first:
+      213: 6224771603267309636
+    second: Bomno1_16
+  - first:
+      213: -8361800052646344707
+    second: Bomno1_17
+  - first:
+      213: 105120817707189501
+    second: Bomno1_18
+  - first:
+      213: -5536920578715690900
+    second: Bomno1_19
+  - first:
+      213: -1861983927250341195
+    second: Bomno1_20
+  - first:
+      213: 7278743403832348778
+    second: Bomno1_21
+  - first:
+      213: -2692734137134505295
+    second: Bomno1_22
+  - first:
+      213: -6765660071458611374
+    second: Bomno1_23
+  - first:
+      213: -253912862541892078
+    second: Bomno1_24
+  - first:
+      213: -4514276877315737826
+    second: Bomno1_25
+  - first:
+      213: 8573714740912067316
+    second: Bomno1_26
+  - first:
+      213: -2030223435722490603
+    second: Bomno1_27
+  - first:
+      213: 4520568332828203477
+    second: Bomno1_28
+  - first:
+      213: 5180945505877078823
+    second: Bomno1_29
+  - first:
+      213: 8676935642694703030
+    second: Bomno1_30
+  - first:
+      213: 2978520017874798323
+    second: Bomno1_31
+  - first:
+      213: -8662517575630088691
+    second: Bomno1_32
+  - first:
+      213: -1552153258931448220
+    second: Bomno1_33
+  - first:
+      213: 8175914846256091499
+    second: Bomno1_34
+  - first:
+      213: 5627768123759739476
+    second: Bomno1_35
+  - first:
+      213: -7517851945914536283
+    second: Bomno1_36
+  - first:
+      213: -4385698053682216014
+    second: Bomno1_37
+  - first:
+      213: 3926650532746626516
+    second: Bomno1_38
+  - first:
+      213: -2815971997361343812
+    second: Bomno1_39
+  - first:
+      213: -5295447548662820364
+    second: Bomno1_40
+  - first:
+      213: -3930665751462367156
+    second: Bomno1_41
+  - first:
+      213: 6335677548986232776
+    second: Bomno1_42
+  - first:
+      213: -7807313719078779857
+    second: Bomno1_43
+  - first:
+      213: -5444262748216409316
+    second: Bomno1_44
+  - first:
+      213: 7421818951888072916
+    second: Bomno1_45
+  - first:
+      213: 1184438371662215542
+    second: Bomno1_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomno1_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 794
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a17ed02da70a240800000000000000
+      internalID: 4800972245371918913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 714
+        width: 267
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee89b43d81309570800000000000000
+      internalID: 8471325381628628714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 695
+        width: 326
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f536b2eb3231990800000000000000
+      internalID: -7416544861670383819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 381
+        width: 241
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b08e442af5ca8e0800000000000000
+      internalID: -1680863410370639057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 383
+        width: 245
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867a88e8cc944780800000000000000
+      internalID: -8699656193464174965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_9
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 416
+        width: 198
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3955b118dc845c490800000000000000
+      internalID: -7726689538212670061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 234
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f5d509111a51c0800000000000000
+      internalID: -4514276877315737826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 74
+        width: 216
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d7613ba8233d3e0800000000000000
+      internalID: -2030223435722490603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomno1_46
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 74
+        width: 227
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b4417c68ff6010800000000000000
+      internalID: 1184438371662215542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bomno1_0: 4800972245371918913
+      Bomno1_1: 8471325381628628714
+      Bomno1_25: -4514276877315737826
+      Bomno1_27: -2030223435722490603
+      Bomno1_3: -7416544861670383819
+      Bomno1_46: 1184438371662215542
+      Bomno1_7: -1680863410370639057
+      Bomno1_8: -8699656193464174965
+      Bomno1_9: -7726689538212670061
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
